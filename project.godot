@@ -32,6 +32,10 @@ window/stretch/aspect="expand"
 
 project/assembly_name="creepy house-s treasure"
 
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/gut/plugin.cfg")
+
 [input]
 
 left={
